@@ -1,11 +1,10 @@
 {
     "name": "@pxeeio/eslint-config-solid",
-    "version": "1.0.0",
-    "description": "",
+    "version": "0.1.0",
+    "description": "Shareable ESLint config for SolidJS projects using TypeScript, intended for pxee.io contributors.",
+    "author": "Rodrigo Bondoc",
+    "license": "MIT",
     "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
     "keywords": [
         "eslint",
         "eslintconfig",
@@ -18,8 +17,6 @@
         "typed",
         "typescript"
     ],
-    "author": "Rodrigo Bondoc",
-    "license": "MIT",
     "peerDependencies": {
         "@typescript-eslint/eslint-plugin": "^6.2.1",
         "@typescript-eslint/parser": "^6.2.1",
