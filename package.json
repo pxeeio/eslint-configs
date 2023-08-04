@@ -1,0 +1,13 @@
+{
+    "name": "eslint-configs",
+    "private": true,
+    "version": "1.0.0",
+    "description": "ESLint configs for use in pxee.io projects.",
+    "scripts": {},
+    "keywords": [],
+    "author": "Rodrigo Bondoc",
+    "license": "MIT",
+    "devDependencies": {
+        "eslint": "^8.46.0"
+    }
+}

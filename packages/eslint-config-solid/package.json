@@ -1,0 +1,15 @@
+{
+    "name": "@pxeeio/eslint-config-solid",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Rodrigo Bondoc",
+    "license": "MIT",
+    "peerDependencies": {
+        "eslint": ">=8.46.0"
+    }
+}
