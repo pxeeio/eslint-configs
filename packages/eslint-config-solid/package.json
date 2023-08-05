@@ -1,6 +1,6 @@
 {
     "name": "@pxeeio/eslint-config-solid",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "license": "MIT",
     "author": "Rodrigo Bondoc",
     "description": "Shareable ESLint config for SolidJS projects using TypeScript, intended for pxee.io contributors.",
