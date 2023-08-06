@@ -36,7 +36,6 @@ module.exports = defineConfig({
         'max-len': ['warn', 100],
         'no-debugger': 'error',
         'no-empty': 'warn',
-        'no-process-exit': 'off',
         'no-useless-escape': 'off',
         'prefer-const': [
             'error',
