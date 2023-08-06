@@ -79,7 +79,7 @@ import styles from './styles.module.css';
 
 ```
 
-### Rules You May Want to Override
+## Rules You May Want to Override
 - `quotes`: Prefer single quotes, except to avoid escape characters.
 - `indent`: Prefer an indent size of 4 spaces over 2 spaces.
 - `max-len`: 100 characters max.
