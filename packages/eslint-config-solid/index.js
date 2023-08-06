@@ -133,7 +133,7 @@ module.exports = defineConfig({
             },
         },
         {
-            files: ['*.spec.ts'],
+            files: ['*.spec.ts', '*.test.ts', '*.spec.tsx', '*.test.tsx', '*-test.tsx'],
             rules: {
                 'n/no-extraneous-import': 'off',
             },
